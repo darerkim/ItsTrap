@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 908f6f8e840e6434189e02b19135e238
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - go_Prefab_FoatingText: {fileID: 5187862935104867838, guid: 2ed556b4769bf486195275102ed84d5e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
